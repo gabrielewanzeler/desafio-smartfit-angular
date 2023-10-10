@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Aplicação feita como fonte de treinamento para a utilização do angular e outras tecnologias.
+=======
+>>>>>>> 6f511c1 (Mensagem do commit)
 # DesafioSmartfit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
@@ -25,3 +31,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<<<<<<< HEAD
+=======
+>>>>>>> e41d46d (Mensagem do commit)
+>>>>>>> 6f511c1 (Mensagem do commit)
