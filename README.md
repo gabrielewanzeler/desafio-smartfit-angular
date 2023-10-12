@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+<<<<<<< 
 =======
-<<<<<<< HEAD
 Aplicação feita como fonte de treinamento para a utilização do angular e outras tecnologias.
 =======
 >>>>>>> 6f511c1 (Mensagem do commit)
